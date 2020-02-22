@@ -1,1 +1,1 @@
-# event-registration-webapp
+# event-registration-system
